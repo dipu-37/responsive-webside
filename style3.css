@@ -1,0 +1,20 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: 2px solid red;
+    /* justify-content: center; */
+    padding: 20px;
+}
+.login-form input{
+    margin-top: 20px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 2px solid red;
+}
